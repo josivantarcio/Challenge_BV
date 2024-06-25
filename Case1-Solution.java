@@ -24,7 +24,7 @@ class Solution {
         DAY_INDEX_MAP.put("Sun", 6);
 
         DAYS_OF_WEEK = new String[]{"Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"};
-        DAYS_IN_WEEK = 7;
+        DAYS_IN_WEEK = DAYS_OF_WEEK.length;
     }
 
     
